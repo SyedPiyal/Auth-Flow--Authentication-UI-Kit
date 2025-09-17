@@ -1,5 +1,5 @@
 import 'package:auth_flow/utils/theme/app_theme_data.dart';
-import 'package:auth_flow/utils/view/login/login_version_10.dart';
+import 'package:auth_flow/view/login/login_version_10.dart';
 import 'package:flutter/material.dart';
 
 void main() {
