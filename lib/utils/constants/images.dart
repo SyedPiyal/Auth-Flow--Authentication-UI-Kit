@@ -1,3 +1,4 @@
 class AppImages {
-  // static const doubleArrow = "assets/images/double_arrow.png";
+  static const login1Logo = "assets/images/login1_logo.svg";
+  static const icGoogle = "assets/images/google.svg";
 }
